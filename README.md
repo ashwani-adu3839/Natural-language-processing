@@ -1,5 +1,5 @@
 # Natural-language-processing
-Sequence to Sequence Natural language processing with Attention using beam search.
+Sequence to Sequence Natural language processing with Attention using beam search. We also look for Bleu Score.
 
 The model can be used for Language translation, Question Answer query, Human machine interaction.
 
