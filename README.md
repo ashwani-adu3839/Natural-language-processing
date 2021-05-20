@@ -7,3 +7,5 @@ The model can be used for Language translation, Question Answer query, Human mac
 [Tensorflow](https://www.tensorflow.org/api_docs) - _Tensorflow NLP_
 
 [Coursera](https://www.coursera.org/learn/nlp-sequence-models) - _Sequence Models by Andrew Ng_
+
+[Bahdanau](https://arxiv.org/abs/1409.0473)- _Neural Machine Translation by Jointly Learning to Align and Translate_
