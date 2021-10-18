@@ -1,5 +1,5 @@
 # Natural-language-processing
-Sequence to Sequence, POS, NER, Text Similarity, Text generation, Sentiment Analysis, Mask Filling
+Sequence to Sequence, Part of Speech, Named-entity recognition, Text Similarity, Text generation, Sentiment Analysis, Mask Filling
 
 # Link
 [Tensorflow](https://www.tensorflow.org/api_docs) - _Tensorflow NLP_
