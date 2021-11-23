@@ -12,3 +12,7 @@ Construct Langugage models for Part of Speech, Named-entity recognition, Text Si
 [PyTorch](https://pytorch.org/)- _PyTorch_
 
 [NLTK](https://www.nltk.org/)- _Natural Language Toolkit_
+
+[FAISS](https://ai.facebook.com/tools/faiss/)- _Facebook AI Similarity Search_
+
+[Haystack](https://haystack.deepset.ai/overview/get-started)- _Haystack_
