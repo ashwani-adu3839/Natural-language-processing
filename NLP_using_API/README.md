@@ -2,7 +2,7 @@
 # Natural language processing using API
 
 Construct Langugage models for Part of Speech, Named-entity recognition, Text Similarity, Text generation, Sentiment Analysis, Mask Filling
- by fine tuning pre-trained BERT/GPT based models.
+ by fine tuning pre-trained BERT/GPT based models. Further, use state of the art API for similarity search, Retrival reader/ generator task.
 
 # Link
 [Tensorflow](https://www.tensorflow.org/api_docs) - _Tensorflow_
