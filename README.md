@@ -8,7 +8,7 @@ We perform Natural Language task using different APIs and algorithm.
  
 2) Fine tuning pretrained model for Natural Language Processing task using Huggingface and Haysatck API.
 
-3)NLP task using sklearn library. 
+3) NLP task using sklearn library. 
 
 # Link
 [Bahdanau](https://arxiv.org/abs/1409.0473)- _Neural Machine Translation by Jointly Learning to Align and Translate_
