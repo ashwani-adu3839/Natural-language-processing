@@ -3,4 +3,4 @@ Masked Langage Model does not have access to the full input. Rather, it has acce
   
   | Model Architecture |
 |------------|
-| <img src="https://github.com/codewithAshwani/Tensorflow_Example/blob/main/Classification/img/Concentric_circle.png" width="400"> |
+| <img src="https://github.com/ashwani-adu3839/Natural-language-processing/blob/main/NLP_using_Tensorflow/Img/MASK_FILL.png.svg" width="400"> |
