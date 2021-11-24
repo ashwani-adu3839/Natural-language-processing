@@ -1,4 +1,4 @@
-# Natural-language-processing
+# Natural-language-processing using Transformer and RNN Architecture
 Sequence to Sequence, Part of Speech, Named-entity recognition, Text Similarity, Text generation, Sentiment Analysis, Mask Filling
 
 # Link
