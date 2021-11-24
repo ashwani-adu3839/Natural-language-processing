@@ -6,7 +6,7 @@ We perform Natural Language task using different APIs and algorithm.
  Some of the task include:
  Sequence to Sequence, Part of Speech, Named-entity recognition, Text Similarity, Text generation, Sentiment Analysis, Mask Filling
  
-2) Fine tuning pretrained model for Natural Language Processing task using Huggingface and Haysatck API.
+2) Fine tuning pretrained model for Natural Language Processing task using Huggingface and using Haysatck API for retrival reader/generator model.
 
 3) NLP task using sklearn library. 
 
