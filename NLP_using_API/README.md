@@ -1,7 +1,7 @@
 
 # Natural language processing using API
 
-Construct Langugage models for Part of Speech, Named-entity recognition, Text Similarity, Text generation, Sentiment Analysis, Mask Filling
+Construct Langugage models for Part of Speech, Named-entity recognition, Text Similarity, Text generation, Sentiment Analysis, Mask Filling, Question Answering
  by fine tuning pre-trained BERT/GPT based models. Further, use state of the art API for similarity search, Retrival reader/ generator task.
 
 # Link
