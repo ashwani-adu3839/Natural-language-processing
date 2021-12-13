@@ -5,5 +5,5 @@ The model can be used for Language translation, Question Answer query, Human mac
 
 The following diagram shows an overview of the model. At each time-step the decoder's output is combined with a weighted sum over the encoded input, to predict the next word.
 
-<img src="https://github.com/ashwani-adu3839/Natural-language-processing/blob/main/Sequence%20to%20Sequence/files/attention.png" width="400"> 
+<img src="https://github.com/ashwani-adu3839/Natural-language-processing/blob/main/NLP_using_Tensorflow/Sequence%20to%20Sequence/files/attention.png" width="400"> 
 
